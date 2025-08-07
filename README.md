@@ -1,1 +1,1 @@
-"# GHPagesExample" 
+# GHPagesExample
